@@ -1,4 +1,4 @@
-# UI-UX Project using React
+# UI-UX Project using React, CSS
 
 Live site : https://gpt3uiuxreact.netlify.app/
 
